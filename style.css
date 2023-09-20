@@ -288,12 +288,12 @@ ul li a {
     }
     .grid{
         grid-template-columns: 80%;
-        grid-gap: 0;
+        grid-gap: 10px;
     }
     .box h3{
-        font-size: 18px;
+        font-size: 15px;
     }
     .box p{
-        font-size: 13px;
+        font-size: 11px;
     }
 }
