@@ -290,5 +290,10 @@ ul li a {
         grid-template-columns: 80%;
         grid-gap: 0;
     }
-    
+    .box h3{
+        font-size: 18px;
+    }
+    .box p{
+        font-size: 13px;
+    }
 }
